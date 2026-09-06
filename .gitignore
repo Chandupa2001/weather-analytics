@@ -1,0 +1,17 @@
+# Dependencies
+**/node_modules/
+
+# Build output
+frontend/dist/
+
+# Environment files (contain secrets - keep real values out of git)
+backend/.env
+frontend/.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS/editor cruft
+.DS_Store
+.vscode/
