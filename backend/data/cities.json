@@ -1,0 +1,14 @@
+[
+  { "CityCode": 2172797, "CityName": "Cairns", "Country": "AU" },
+  { "CityCode": 1248991, "CityName": "Colombo", "Country": "LK" },
+  { "CityCode": 2643743, "CityName": "London", "Country": "GB" },
+  { "CityCode": 5128581, "CityName": "New York", "Country": "US" },
+  { "CityCode": 1850147, "CityName": "Tokyo", "Country": "JP" },
+  { "CityCode": 2147714, "CityName": "Sydney", "Country": "AU" },
+  { "CityCode": 292223, "CityName": "Dubai", "Country": "AE" },
+  { "CityCode": 1880252, "CityName": "Singapore", "Country": "SG" },
+  { "CityCode": 1273294, "CityName": "Delhi", "Country": "IN" },
+  { "CityCode": 3143244, "CityName": "Oslo", "Country": "NO" },
+  { "CityCode": 2988507, "CityName": "Paris", "Country": "FR" },
+  { "CityCode": 5391959, "CityName": "San Francisco", "Country": "US" }
+]
